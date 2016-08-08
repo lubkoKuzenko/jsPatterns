@@ -1,0 +1,24 @@
+{
+  "name": "jspatterns",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "builder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubkoKuzenko/jsPatterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lubkoKuzenko/jsPatterns/issues"
+  },
+  "homepage": "https://github.com/lubkoKuzenko/jsPatterns#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jsmin": "^0.1.5"
+  }
+}
